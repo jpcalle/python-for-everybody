@@ -1,4 +1,4 @@
-"""Assignment 8.4."""
+"""Assignment 8.5."""
 # 8.5 Open the file mbox-short.txt and read it line by line. When you find a
 # line that starts with 'From ' like the following line:
 #   From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
